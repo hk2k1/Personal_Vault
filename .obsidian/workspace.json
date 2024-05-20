@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Design/02 System Design GitHub Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Design/02 System Design GitHub Notes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Design/02 System Design GitHub Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Design/02 System Design GitHub Notes.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   },
   "active": "78c3bee9815d2909",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Untitled.md",
+    "README.md",
     "System Design/02 System Design GitHub Notes.md",
     "System Design/01 CS75 Scalability.md",
     "System Design/Untitled",
@@ -158,7 +159,6 @@
     "Leetcode/Problems/05 Sliding Window.md",
     "Leetcode/Problems/04 Binary Search.md",
     "Leetcode/Problems/03 Stack.md",
-    "Untitled.md",
     "Leetcode/Problems/02 Two Pointers.md",
     "Leetcode/Problems/01 Arrays & Hashing.md",
     "System Design",
