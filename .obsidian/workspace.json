@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "2bdfaf3af1f87dbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "350e4797a6c82d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c3bee9815d2909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Design/02 System Design GitHub Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "601e5cdecf5af230",
+    "type": "split",
+    "children": [
+      {
+        "id": "67cb903f65636f74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d763fdfe89ddb13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f4ef08a2fd0711a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfbcf89cbd907282",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "2e3383e92dd747bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bd6f64875e150e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5d833e56256e85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "System Design/02 System Design GitHub Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ce00d7f644d566c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Design/02 System Design GitHub Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6683451c549b27c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "abed4d2e31d9e7fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Design/02 System Design GitHub Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "78c3bee9815d2909",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "System Design/02 System Design GitHub Notes.md",
+    "System Design/01 CS75 Scalability.md",
+    "System Design/Untitled",
+    "Leetcode/Problems/06 Linked List.md",
+    "Leetcode/Problems/05 Sliding Window.md",
+    "Leetcode/Problems/04 Binary Search.md",
+    "Leetcode/Problems/03 Stack.md",
+    "Untitled.md",
+    "Leetcode/Problems/02 Two Pointers.md",
+    "Leetcode/Problems/01 Arrays & Hashing.md",
+    "System Design",
+    "Leetcode/Scrap/Drawing 2024-04-18 23.41.43.excalidraw.md",
+    "Leetcode/Problems/0.md",
+    "Big O Notation/Big O Notation.md",
+    "Leetcode/Scrap/Untitled.md",
+    "Leetcode/Scrap/Untitled.canvas",
+    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
+    "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
+    "Leetcode/Scrap/attachments/Pasted image 20240418234056.png",
+    "Leetcode/Scrap/attachments",
+    "Leetcode/Scrap",
+    "Leetcode/Problems",
+    "Leetcode",
+    "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240309120250_170.png",
+    "Excalidraw/attachments/Pasted Image 20240309001817_205.png",
+    "Excalidraw/attachments/Pasted Image 20240308202858_547.png",
+    "Excalidraw/attachments",
+    "Excalidraw",
+    "Big O Notation/attachments/Pasted image 20240123181429.png",
+    "Big O Notation/attachments/Pasted image 20240123181052.png",
+    "Big O Notation/attachments/Pasted image 20240123180955.png",
+    "Big O Notation/attachments/Pasted image 20240123180341.png",
+    "Big O Notation/attachments/Pasted image 20240123180330.png",
+    "Big O Notation/attachments",
+    "Big O Notation",
+    "Setup/3.2 Hosting With Docker.md",
+    "Setup/3.3 CICD Docker Pipeline.md",
+    "Setup/3 DigitalOcean VPS.md",
+    "Setup/3.1 Hosting Without Docker.md",
+    "Setup/2 Docker Setup.md",
+    "Setup/1 Development Setup.md",
+    "Setup/4 Performance Comparison.md",
+    "Setup/Untitled.md",
+    "Presentation/About Me.md",
+    "Vaults/Setup/2 Docker Setup.md"
+  ]
+}
