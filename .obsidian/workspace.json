@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Leetcode/Problems/06 Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "HTTPS",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Leetcode/Problems/06 Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Leetcode/Problems/06 Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Leetcode/Problems/06 Linked List.md"
               }
             }
           }
@@ -150,43 +150,44 @@
   },
   "active": "78c3bee9815d2909",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
+    "System Design/03 Additional System Design.md",
     "System Design/02 System Design GitHub Notes.md",
-    "System Design/01 CS75 Scalability.md",
-    "System Design/Untitled",
     "Leetcode/Problems/06 Linked List.md",
+    "System Design/01 CS75 Scalability.md",
+    "Leetcode/Problems/01 Arrays & Hashing.md",
+    "Leetcode/Problems/02 Two Pointers.md",
+    "System Design/attachments/Pasted image 20240522145538.png",
+    "System Design/attachments/Pasted image 20240522145528.png",
+    "System Design/attachments/Pasted image 20230531183159.png",
+    "System Design/attachments/Pasted image 20230531184228.png",
+    "System Design/attachments/4cee9cb5b61260bd94fe23425917f25e.webp",
+    "System Design/attachments/Pasted image 20240522122154.jpg",
+    "System Design/attachments/Pasted image 20240522122007.png",
+    "System Design/attachments/Pasted image 20240522113952.png",
+    "System Design/attachments/Pasted image 20240522112652.png",
+    "System Design/attachments/Pasted image 20240521230323.png",
+    "System Design/attachments",
+    "README.md",
+    "Untitled.md",
+    "System Design/Untitled",
     "Leetcode/Problems/05 Sliding Window.md",
     "Leetcode/Problems/04 Binary Search.md",
     "Leetcode/Problems/03 Stack.md",
-    "Leetcode/Problems/02 Two Pointers.md",
-    "Leetcode/Problems/01 Arrays & Hashing.md",
     "System Design",
     "Leetcode/Scrap/Drawing 2024-04-18 23.41.43.excalidraw.md",
     "Leetcode/Problems/0.md",
     "Big O Notation/Big O Notation.md",
     "Leetcode/Scrap/Untitled.md",
     "Leetcode/Scrap/Untitled.canvas",
-    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
     "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
-    "Leetcode/Scrap/attachments/Pasted image 20240418234056.png",
     "Leetcode/Scrap/attachments",
     "Leetcode/Scrap",
     "Leetcode/Problems",
     "Leetcode",
     "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240309120250_170.png",
-    "Excalidraw/attachments/Pasted Image 20240309001817_205.png",
-    "Excalidraw/attachments/Pasted Image 20240308202858_547.png",
     "Excalidraw/attachments",
     "Excalidraw",
-    "Big O Notation/attachments/Pasted image 20240123181429.png",
-    "Big O Notation/attachments/Pasted image 20240123181052.png",
-    "Big O Notation/attachments/Pasted image 20240123180955.png",
-    "Big O Notation/attachments/Pasted image 20240123180341.png",
-    "Big O Notation/attachments/Pasted image 20240123180330.png",
     "Big O Notation/attachments",
-    "Big O Notation",
     "Setup/3.2 Hosting With Docker.md",
     "Setup/3.3 CICD Docker Pipeline.md",
     "Setup/3 DigitalOcean VPS.md",
@@ -194,8 +195,6 @@
     "Setup/2 Docker Setup.md",
     "Setup/1 Development Setup.md",
     "Setup/4 Performance Comparison.md",
-    "Setup/Untitled.md",
-    "Presentation/About Me.md",
-    "Vaults/Setup/2 Docker Setup.md"
+    "Setup/Untitled.md"
   ]
 }
