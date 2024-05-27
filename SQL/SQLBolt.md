@@ -69,3 +69,39 @@ DROP TABLE IF EXISTS mytable;
 ```
 
 ![[Screenshot 2024-05-26 at 3.10.11 AM.png]]
+
+
+---
+
+### Subqueries
+```sql
+SELECT *
+FROM employees
+WHERE salary > 
+   (SELECT AVG(revenue_generated)
+    FROM employees AS dept_employees
+    WHERE dept_employees.department = employees.department);
+```
+
+```sql
+SELECT *, …
+FROM mytable
+WHERE column
+    IN/NOT IN (SELECT another_column
+               FROM another_table);
+```
+
+Hard Examples
+```sql
+SELECT 
+    MONTH(record_date) AS month,
+    MAX(CASE WHEN data_type = 'max' THEN data_value ELSE NULL END) AS max,
+    MIN(CASE WHEN data_type = 'min' THEN data_value ELSE NULL END) AS min,
+    ROUND(AVG(CASE WHEN data_type = 'avg' THEN data_value ELSE NULL END)) AS avg
+FROM 
+    temperature_records
+GROUP BY 
+    MONTH(record_date)
+ORDER BY 
+    month;
+```

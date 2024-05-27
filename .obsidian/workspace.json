@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HTTPS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,16 +144,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "78c3bee9815d2909",
   "lastOpenFiles": [
-    "SQL/attachments/Screenshot 2024-05-26 at 3.10.11 AM.png",
-    "SQL/attachments",
     "Leetcode/Problems/06 Linked List.md",
+    "SQL/attachments/Screenshot 2024-05-26 at 3.10.11 AM.png",
     "SQL/SQLBolt.md",
+    "SQL/attachments",
     "SQL",
     "System Design/03 Additional System Design.md",
     "System Design/02 System Design GitHub Notes.md",
@@ -169,7 +169,6 @@
     "System Design/attachments/Pasted image 20240522122007.png",
     "System Design/attachments/Pasted image 20240522113952.png",
     "System Design/attachments/Pasted image 20240522112652.png",
-    "System Design/attachments/Pasted image 20240521230323.png",
     "System Design/attachments",
     "README.md",
     "Untitled.md",
