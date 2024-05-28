@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQLBolt.md",
+                "file": "Microservices/01 Microservices.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLBolt.md",
+                "file": "Microservices/01 Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLBolt.md",
+                "file": "Microservices/01 Microservices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQLBolt.md"
+                "file": "Microservices/01 Microservices.md"
               }
             }
           }
@@ -150,19 +150,26 @@
   },
   "active": "1d763fdfe89ddb13",
   "lastOpenFiles": [
+    "Microservices/05 Testing.md",
+    "Microservices/04 Monitoring & Observability.md",
+    "Microservices/03 Resilience & Fault Tolerance.md",
+    "Microservices/01 Microservices.md",
+    "Microservices/02 Containers & Orchestration.md",
+    "System Design/01 CS75 Scalability.md",
+    "REST_API/HackerRank REST API.md",
+    "Microservices",
+    "SQL/SQLBolt.md",
+    "Reading",
     "REST_API/attachments/Pasted image 20240527124848.png",
     "REST_API/attachments/Pasted image 20240527124739.png",
-    "REST_API/HackerRank REST API.md",
     "REST_API/attachments",
     "REST_API",
     "Leetcode/Problems/06 Linked List.md",
     "SQL/attachments/Screenshot 2024-05-26 at 3.10.11 AM.png",
-    "SQL/SQLBolt.md",
     "SQL/attachments",
     "SQL",
     "System Design/03 Additional System Design.md",
     "System Design/02 System Design GitHub Notes.md",
-    "System Design/01 CS75 Scalability.md",
     "Leetcode/Problems/01 Arrays & Hashing.md",
     "Leetcode/Problems/02 Two Pointers.md",
     "System Design/attachments/Pasted image 20240522145538.png",
@@ -172,7 +179,6 @@
     "System Design/attachments/4cee9cb5b61260bd94fe23425917f25e.webp",
     "System Design/attachments/Pasted image 20240522122154.jpg",
     "System Design/attachments/Pasted image 20240522122007.png",
-    "System Design/attachments/Pasted image 20240522113952.png",
     "System Design/attachments",
     "README.md",
     "Untitled.md",
@@ -188,14 +194,8 @@
     "Leetcode/Scrap/Untitled.canvas",
     "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
     "Leetcode/Scrap/attachments",
-    "Leetcode/Scrap",
-    "Leetcode/Problems",
     "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
     "Setup/3.2 Hosting With Docker.md",
-    "Setup/3.3 CICD Docker Pipeline.md",
-    "Setup/3 DigitalOcean VPS.md",
-    "Setup/3.1 Hosting Without Docker.md",
-    "Setup/2 Docker Setup.md",
-    "Setup/1 Development Setup.md"
+    "Setup/3.3 CICD Docker Pipeline.md"
   ]
 }
