@@ -1,2 +1,18 @@
 - Leetcode
-- 
+- Database
+- Cache
+- System Architecture
+- Web Service frameworks
+- **performance tuning**
+- **massive concurrency handling**
+- **caching mechanisms**
+- **Linux**
+- **multi-threaded programming**
+- [How to Become a Good Backend Engineer (Fundamentals) | by Hussein Nasser | Medium](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
+	- Communication Protocols
+	- Web Servers
+	- Database engineering
+	- Proxies
+	- Messaging systems
+	- Message formats
+	- Security

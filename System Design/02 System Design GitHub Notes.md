@@ -98,7 +98,7 @@ Horizontal Scaling Disadvantage: Load Balancer complexity -> performance bottlen
 - High performance, rapidly changing data
 ### Document store
 - APIs or query language to query based on internal structure of doc itself
-- Organized based on collections, tags, metada
+- Organized based on collections, tags, metadata
 - High flexibility, occasionally changing data
 
 ### Wide column store
@@ -168,6 +168,22 @@ Back Pressure - queue size > memory results in cache misses slower performance. 
 - applications that require High reliability,  less time critical
 	- SMTP, FTP, SSH
 
+## HTTP/1.0 - HTTP/1.1 - HTTP/2
+- 1.0  had to break and rebuild connection/handshake every time there is a new request
+- 1.1 solved this by introducing persistent connections and pipelining
+	- TCP connection should be kept open unless directly told to close
+	- But there is a bottleneck
+	- Head Of Line Blocking
+		- Packets cannot pass each other travelling to the same destination
+		- So if 1 request cannot be served it will block the remaining requests in queue
+		- Making parallel connections can but won't solve this entirely
+- 2 Introduces Streams
+	- Multiple streams in same TCP connection
+		- Each stream has messages broken down into binary encoded frames
+		- Can interleave during transfer and reassemble at the end
+		- **Multiplexing**
+	- Solves HOL blocking
+	- 
 ## UDP
 - Connectionless
 - Datagrams are guaranteed only at datagram level
