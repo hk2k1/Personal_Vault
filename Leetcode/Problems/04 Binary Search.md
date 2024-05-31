@@ -1,3 +1,5 @@
+[[Python] Powerful Ultimate Binary Search Template. Solved many problems - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+
 ## [704. Binary Search](https://leetcode.com/problems/binary-search/) <mark style="background: #BBFABBA6;">easy</mark>
 ```python
 class Solution:

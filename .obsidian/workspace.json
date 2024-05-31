@@ -4,30 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "350e4797a6c82d1e",
+        "id": "3822289299bb9fd6",
         "type": "tabs",
         "children": [
           {
-            "id": "78c3bee9815d2909",
+            "id": "e196524db55e354a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
+              }
+            }
+          },
+          {
+            "id": "ed68b1a686d598c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "System Design/Alex_Xu/01 Rate Limiter.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d818e68ce5762183",
+            "id": "70eee326089fa75b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HTTPS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "System Design/Alex_Xu/01 Rate Limiter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "System Design/Alex_Xu/01 Rate Limiter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "System Design/Alex_Xu/01 Rate Limiter.md"
               }
             }
           }
@@ -156,21 +169,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "78c3bee9815d2909",
+  "active": "ed68b1a686d598c2",
   "lastOpenFiles": [
-    "System Design/02 System Design GitHub Notes.md",
-    "Big O Notation/Drawing 2024-05-28 20.03.35.excalidraw.md",
-    "System Design/attachments/Pasted image 20240522145528.png",
-    "System Design/attachments/Pasted image 20240522122007.png",
-    "System Design/attachments/Pasted image 20240522122154.jpg",
-    "System Design/attachments/Pasted image 20240522113952.png",
-    "System Design/attachments/Pasted image 20240522112652.png",
-    "System Design/attachments/Pasted image 20230531183159.png",
-    "System Design/attachments/Pasted image 20240521230323.png",
-    "System Design/01 CS75 Scalability.md",
+    "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "System Design/Alex_Xu/01 Rate Limiter.md",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531131947.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531130358.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531123350.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531122432.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531120121.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531120101.png",
+    "System Design/Alex_Xu/attachments/Pasted image 20240531120047.png",
     "System Design/03 Additional System Design.md",
     "Plan.md",
+    "System Design/Alex_Xu/attachments/Pasted image 20240530235027.png",
+    "System Design/Alex_Xu/attachments",
+    "Leetcode/Problems/07 Binary Tree.md",
+    "System Design/Alex_Xu",
+    "Leetcode/Problems/05 Sliding Window.md",
+    "Excalidraw/Drawing 2024-05-30 21.51.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
+    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
+    "Excalidraw/attachments/Pasted Image 20240309001817_205.png",
+    "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
+    "Leetcode/Problems/04 Binary Search.md",
+    "Big O Notation/Big O Notation.md",
+    "Leetcode/Problems/06 Linked List.md",
+    "Leetcode/Problems/0",
+    "Operating System",
+    "System Design/02 System Design GitHub Notes.md",
     "Leetcode/Problems/03 Stack.md",
+    "SQL.md",
+    "Big O Notation/Drawing 2024-05-28 20.03.35.excalidraw.md",
+    "System Design/01 CS75 Scalability.md",
     "Untitled.md",
     "Microservices/01 Microservices.md",
     "Microservices/05 Testing.md",
@@ -181,28 +212,10 @@
     "Microservices",
     "SQL/SQLBolt.md",
     "Reading",
-    "REST_API/attachments/Pasted image 20240527124848.png",
-    "REST_API/attachments/Pasted image 20240527124739.png",
     "REST_API/attachments",
     "REST_API",
-    "Leetcode/Problems/06 Linked List.md",
-    "SQL/attachments/Screenshot 2024-05-26 at 3.10.11 AM.png",
     "SQL/attachments",
-    "SQL",
     "Leetcode/Problems/01 Arrays & Hashing.md",
-    "Leetcode/Problems/02 Two Pointers.md",
-    "System Design/attachments",
-    "README.md",
-    "System Design/Untitled",
-    "Leetcode/Problems/05 Sliding Window.md",
-    "Leetcode/Problems/04 Binary Search.md",
-    "System Design",
-    "Leetcode/Scrap/Drawing 2024-04-18 23.41.43.excalidraw.md",
-    "Leetcode/Problems/0.md",
-    "Big O Notation/Big O Notation.md",
-    "Leetcode/Scrap/Untitled.md",
-    "Leetcode/Scrap/Untitled.canvas",
-    "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
-    "Leetcode/Scrap/attachments"
+    "Leetcode/Scrap/Untitled.canvas"
   ]
 }

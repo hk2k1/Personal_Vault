@@ -155,7 +155,7 @@ Back Pressure - queue size > memory results in cache misses slower performance. 
 -  PUT
 -  PATCH
 -  DELETE
-- Application layer protocol like TCP and UDP
+- Application layer protocol
 
 ## TCP
 - Connection established and terminated using a handshake
