@@ -17,6 +17,8 @@ LIMIT num_limit OFFSET num_offset;
 | **MAX(**column**)**                     | Finds the largest numerical value in the specified column for all rows in the group.                                                                                                            |
 | **AVG(**column)                         | Finds the average numerical value in the specified column for all rows in the group.                                                                                                            |
 | **SUM(**column**)**                     | Finds the sum of all numerical values in the specified column for the rows in the group.                                                                                                        |
+| LENGTH(column)                          | length                                                                                                                                                                                          |
+| MOD(column,2)                           | modulus                                                                                                                                                                                         |
 ```sql
 SELECT DISTINCT column, AGG_FUNC(_column_or_expression_), … FROM mytable
 JOIN another_table
@@ -105,3 +107,47 @@ GROUP BY
 ORDER BY 
     month;
 ```
+
+Union Two Queries
+```mysql
+WITH Shortest AS (
+    SELECT CITY, LENGTH(CITY) AS LEN
+    FROM STATION
+    ORDER BY LEN ASC, CITY ASC
+    FETCH FIRST 1 ROW ONLY
+),
+Longest AS (
+    SELECT CITY, LENGTH(CITY) AS LEN
+    FROM STATION
+    ORDER BY LEN DESC, CITY ASC
+    FETCH FIRST 1 ROW ONLY
+)
+SELECT * FROM Shortest
+UNION
+SELECT * FROM Longest;
+```
+
+```mysql
+SELECT city
+FROM station
+WHERE city REGEXP '^[aeiouAEIOU]';
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE SUBSTRING(CITY, 1,1) IN ('a', 'e', 'i', 'o', 'u')
+ORDER BY CITY
+```
+---
+
+## Time Complexity
+- `O(1)`- Primary key
+- `O(log n)` - Indexed Column
+- `O(n)` - non-indexed
+- `O(nlogn)` - ORDER BY or GROUP By
+- `O(n^2)` or `O(n^3)` - JOINS
+- `O(2^n)` - recursive query
+- `O(n!)` - multiple tables
+
+---
+>[!tip] Resources
+>- [Understanding Algorithmic Time Efficiency in SQL Queries | by Luke SJ Howard | Learning Data | Medium](https://medium.com/learning-data/understanding-algorithmic-time-efficiency-in-sql-queries-616176a85d02)

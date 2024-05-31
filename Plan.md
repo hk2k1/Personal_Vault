@@ -17,6 +17,7 @@
 	- Message formats
 	- Security
 
+
 ## Checklist
 - [ ] OS
 	- [ ] Processes and Threads
@@ -33,6 +34,63 @@
 - [ ] DB
 	- [ ] SQL
 		- [ ] [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql)
+			- [x] Revising the Select Query I
+			- [x] Revising the Select Query II
+			- [x] Select All
+			- [x] Select By ID
+			- [x] Japanese Cities' Attributes
+			- [x] Japanese Cities' Names
+			- [x] Weather Observation Station 1
+			- [x] Weather Observation Station 3
+			- [x] Weather Observation Station 4
+			- [x] Weather Observation Station 5
+			- [x] Weather Observation Station 6
+			- [x] Weather Observation Station 7
+			- [x] Weather Observation Station 8
+			- [x] Weather Observation Station 9
+			- [x] Weather Observation Station 10
+			- [x] Weather Observation Station 11
+			- [x] Weather Observation Station 12
+			- [ ] Employee Names
+			- [ ] Employee Salaries
+			- [ ] Type of Triangle
+			- [ ] The PADS
+			- [ ] Occupations
+			- [ ] Binary Tree Nodes
+			- [ ] New Companies
+			- [ ] Revising Aggregations - The Count Function
+			- [ ] Revising Aggregations - The Sum Function
+			- [ ] Revising Aggregations - Averages
+			- [ ] Average Population
+			- [ ] Japan Population
+			- [ ] Population Density Difference
+			- [ ] The Blunder
+			- [ ] Top Earners
+			- [ ] Weather Observation Station 2
+			- [ ] Weather Observation Station 13
+			- [ ] Weather Observation Station 14
+			- [ ] Weather Observation Station 15
+			- [ ] Weather Observation Station 16
+			- [ ] Weather Observation Station 17
+			- [ ] Weather Observation Station 18
+			- [ ] Weather Observation Station 19
+			- [ ] Weather Observation Station 20
+			- [ ] Population Census
+			- [ ] African Cities
+			- [ ] Average Population of Each Continent
+			- [ ] The Report
+			- [ ] Top Competitors
+			- [ ] Ollivander's Inventory
+			- [ ] Challenges
+			- [ ] Contest Leaderboard
+			- [ ] SQL Project Planning
+			- [ ] Placements
+			- [ ] Symmetric Pairs
+			- [ ] Interviews
+			- [ ] 15 Days of Learning SQL
+			- [ ] Draw The Triangle 1
+			- [ ] Draw The Triangle 2
+			- [ ] Print Prime Numbers
 		- [ ] [[SQLBolt | SQL Notes]]
 	- [ ] Notes on
 		- [ ] Sharding [[02 System Design GitHub Notes#Sharding]]
@@ -57,7 +115,7 @@
 		- [x] Chapter 1: Scale From Zero To Millions Of Users  
 		- [x] Chapter 2: Back-of-the-envelope Estimation  
 		- [x] Chapter 3: A Framework For System Design Interviews  
-		- [ ] Chapter 4: Design A Rate Limiter  
+		- [x] Chapter 4: Design A Rate Limiter  
 		- [ ] Chapter 5: Design Consistent Hashing  
 		- [ ] Chapter 6: Design A Key-value Store  
 		- [ ] Chapter 7: Design A Unique Id Generator In Distributed Systems  
