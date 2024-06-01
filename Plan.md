@@ -31,6 +31,29 @@
 	- [ ] File Systems
 	- [ ] IPCs
 	- [ ] Swapping
+	- [ ] [Operating System CheatSheet [by Love Babbar] (whimsical.com)](https://whimsical.com/operating-system-cheatsheet-by-love-babbar-S9tuWBCSQfzoBRF5EDNinQ)
+	- [ ] https://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html
+	- [ ] [Operating System Concepts - slides (os-book.com)](https://www.os-book.com/OS9/slide-dir/index.html)
+	- [x] Part 1: Overview
+		1. [x] Introduction	
+		2. [x] Operating-System Structures	
+	- [ ] Part 2: Process Management
+		1. [x] Processes	
+		2. [x] Threads	
+		3. [x] Process Synchronization
+		4. [x] CPU Scheduling
+		5. [x] Deadlocks
+	- [ ] Part 3: Memory Management
+		1. [ ] Main Memory	
+		2. [ ] Virtual Memory	
+	- [ ] Part 4: Storage Management
+		1. [ ] Mass-Storage Structure	
+		2. [ ] File-System Interface	
+		3. [ ] File-System Implementation	
+		4. [ ] I/O Systems	
+	- [ ] Part 5: Protection and Security
+		1. [ ] Protection	
+		2. [ ] Security
 - [ ] DB
 	- [ ] SQL
 		- [ ] [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql)
@@ -96,8 +119,8 @@
 		- [ ] Sharding [[02 System Design GitHub Notes#Sharding]]
 		- [ ] Indexing
 		- [ ] Replication [[02 System Design GitHub Notes#Database]]
-	- [ ] Query Complexity
-		- [ ] [Understanding Algorithmic Time Efficiency in SQL Queries | Medium](https://medium.com/learning-data/understanding-algorithmic-time-efficiency-in-sql-queries-616176a85d02)
+	- [x] Query Complexity
+		- [x] [Understanding Algorithmic Time Efficiency in SQL Queries | Medium](https://medium.com/learning-data/understanding-algorithmic-time-efficiency-in-sql-queries-616176a85d02)
 - [ ] Network
 	- [ ] TCP & UDP 
 		- [ ] [Understanding TCP and UDP : Building Blocks of Connectivity | Medium](https://medium.com/@abhirup.acharya009/understanding-tcp-and-udp-building-blocks-of-connectivity-ec96e208b852)

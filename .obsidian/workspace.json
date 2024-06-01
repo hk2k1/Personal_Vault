@@ -13,29 +13,31 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
+                "file": "Operating System/Bedtime Stories on Operating Systems.pdf"
               }
             }
           },
           {
-            "id": "ed68b1a686d598c2",
+            "id": "6c793e2ee7fca48b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Plan.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70eee326089fa75b",
+            "id": "d9e739c2c4663496",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf"
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,8 +71,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
-                "matchingCase": true,
+                "query": "race",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -90,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "2e3383e92dd747bd",
@@ -167,33 +168,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "ed68b1a686d598c2",
+  "active": "6c793e2ee7fca48b",
   "lastOpenFiles": [
-    "Operating System/01.md",
-    "SQL/SQLBolt.md",
+    "Operating System/06 Deadlocks.md",
+    "Operating System/04 Process Synchronisation.md",
+    "Operating System/05 Process Scheduling.md",
+    "Operating System/02 Processes.md",
+    "Operating System/Bedtime Stories on Operating Systems.pdf",
     "Plan.md",
-    "Leetcode/Problems/07 Binary Tree.md",
+    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
+    "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
+    "Operating System/03 Threads.md",
+    "Operating System/01 Intro.md",
+    "Operating System/attachments/Pasted image 20240601133226.png",
+    "Operating System/attachments/Pasted image 20240601133154.png",
+    "Operating System/attachments/Pasted image 20240601133122.png",
+    "Operating System/attachments/Pasted image 20240601133016.png",
+    "Operating System/attachments/Pasted image 20240601132818.png",
+    "Operating System/attachments/Pasted image 20240601132704.png",
     "System Design/Alex_Xu/01 Rate Limiter.md",
+    "Microservices/04 Monitoring & Observability.md",
+    "Operating System/attachments/Pasted image 20240601122344.png",
+    "Operating System/attachments/Pasted image 20240601113005.png",
+    "Operating System/attachments/Pasted image 20240601112829.png",
+    "Operating System/attachments",
     "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531131947.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531130358.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531123350.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531122432.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120121.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120101.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120047.png",
+    "SQL/SQLBolt.md",
+    "Leetcode/Problems/07 Binary Tree.md",
     "System Design/03 Additional System Design.md",
-    "System Design/Alex_Xu/attachments/Pasted image 20240530235027.png",
     "System Design/Alex_Xu/attachments",
     "System Design/Alex_Xu",
     "Leetcode/Problems/05 Sliding Window.md",
     "Excalidraw/Drawing 2024-05-30 21.51.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
-    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
-    "Excalidraw/attachments/Pasted Image 20240309001817_205.png",
     "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
     "Leetcode/Problems/04 Binary Search.md",
     "Big O Notation/Big O Notation.md",
@@ -207,17 +217,9 @@
     "System Design/01 CS75 Scalability.md",
     "Untitled.md",
     "Microservices/01 Microservices.md",
-    "Microservices/05 Testing.md",
-    "Microservices/04 Monitoring & Observability.md",
-    "Microservices/03 Resilience & Fault Tolerance.md",
-    "Microservices/02 Containers & Orchestration.md",
-    "REST_API/HackerRank REST API.md",
     "Microservices",
     "Reading",
     "REST_API/attachments",
-    "REST_API",
-    "SQL/attachments",
-    "Leetcode/Problems/01 Arrays & Hashing.md",
     "Leetcode/Scrap/Untitled.canvas"
   ]
 }
