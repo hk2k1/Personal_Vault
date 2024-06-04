@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3822289299bb9fd6",
+        "id": "e1518dd243702fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "e196524db55e354a",
+            "id": "5ffb7ff6dcf9ac6c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Operating System/Bedtime Stories on Operating Systems.pdf"
+                "file": "Leetcode/Problems/11 Bit manipulation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "6c793e2ee7fca48b",
+            "id": "0e8eee243edec95a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,12 +32,12 @@
             }
           },
           {
-            "id": "d9e739c2c4663496",
+            "id": "9f181937a242c8de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "SQL/SQLBolt.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "race",
+                "query": "RAID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,51 +174,51 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c793e2ee7fca48b",
+  "active": "0e8eee243edec95a",
   "lastOpenFiles": [
-    "Operating System/06 Deadlocks.md",
-    "Operating System/04 Process Synchronisation.md",
-    "Operating System/05 Process Scheduling.md",
-    "Operating System/02 Processes.md",
-    "Operating System/Bedtime Stories on Operating Systems.pdf",
+    "Leetcode/Problems/11 Bit manipulation.md",
+    "Operating System/11 Protection & Security.md",
+    "Operating System/09 Storage Management.md",
+    "System Design/01 CS75 Scalability.md",
     "Plan.md",
-    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
+    "Operating System/10 IO Management.md",
+    "Operating System/attachments/Pasted image 20240603202750.png",
+    "Operating System/attachments/Pasted image 20240603202057.png",
+    "Operating System/Bedtime Stories on Operating Systems.pdf",
+    "Operating System/07 Memory.md",
+    "Leetcode/Problems/10 Backtracking.md",
+    "Operating System/01 Intro.md",
+    "Leetcode/Problems/08 Heap.md",
+    "Leetcode/Problems/07 Binary Tree.md",
+    "Leetcode/Problems/09 Tries or Prefix Tree.md",
+    "Leetcode/Problems/06 Linked List.md",
+    "Excalidraw/Drawing 2024-06-02 19.22.36.excalidraw.md",
+    "SQL/SQLBolt.md",
     "Excalidraw/Drawing 2024-04-18 23.41.33.excalidraw.md",
     "Operating System/03 Threads.md",
-    "Operating System/01 Intro.md",
+    "System Design/Alex_Xu/01 Rate Limiter.md",
+    "System Design/02 System Design GitHub Notes.md",
+    "System Design/03 Additional System Design.md",
+    "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "Operating System/06 Deadlocks.md",
+    "Operating System/05 Process Scheduling.md",
+    "Operating System/04 Process Synchronisation.md",
+    "Operating System/02 Processes.md",
+    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
     "Operating System/attachments/Pasted image 20240601133226.png",
     "Operating System/attachments/Pasted image 20240601133154.png",
     "Operating System/attachments/Pasted image 20240601133122.png",
     "Operating System/attachments/Pasted image 20240601133016.png",
     "Operating System/attachments/Pasted image 20240601132818.png",
     "Operating System/attachments/Pasted image 20240601132704.png",
-    "System Design/Alex_Xu/01 Rate Limiter.md",
     "Microservices/04 Monitoring & Observability.md",
     "Operating System/attachments/Pasted image 20240601122344.png",
-    "Operating System/attachments/Pasted image 20240601113005.png",
-    "Operating System/attachments/Pasted image 20240601112829.png",
     "Operating System/attachments",
-    "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
-    "SQL/SQLBolt.md",
-    "Leetcode/Problems/07 Binary Tree.md",
-    "System Design/03 Additional System Design.md",
     "System Design/Alex_Xu/attachments",
     "System Design/Alex_Xu",
     "Leetcode/Problems/05 Sliding Window.md",
-    "Excalidraw/Drawing 2024-05-30 21.51.00.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-08 20.28.43.excalidraw.md",
-    "Leetcode/Problems/04 Binary Search.md",
-    "Big O Notation/Big O Notation.md",
-    "Leetcode/Problems/06 Linked List.md",
     "Leetcode/Problems/0",
     "Operating System",
-    "System Design/02 System Design GitHub Notes.md",
-    "Leetcode/Problems/03 Stack.md",
-    "SQL.md",
-    "Big O Notation/Drawing 2024-05-28 20.03.35.excalidraw.md",
-    "System Design/01 CS75 Scalability.md",
-    "Untitled.md",
-    "Microservices/01 Microservices.md",
     "Microservices",
     "Reading",
     "REST_API/attachments",

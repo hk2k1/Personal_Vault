@@ -37,23 +37,23 @@
 	- [x] Part 1: Overview
 		1. [x] Introduction	
 		2. [x] Operating-System Structures	
-	- [ ] Part 2: Process Management
+	- [x] Part 2: Process Management
 		1. [x] Processes	
 		2. [x] Threads	
 		3. [x] Process Synchronization
 		4. [x] CPU Scheduling
 		5. [x] Deadlocks
-	- [ ] Part 3: Memory Management
-		1. [ ] Main Memory	
-		2. [ ] Virtual Memory	
-	- [ ] Part 4: Storage Management
-		1. [ ] Mass-Storage Structure	
-		2. [ ] File-System Interface	
-		3. [ ] File-System Implementation	
-		4. [ ] I/O Systems	
-	- [ ] Part 5: Protection and Security
-		1. [ ] Protection	
-		2. [ ] Security
+	- [x] Part 3: Memory Management
+		1. [x] Main Memory	
+		2. [x] Virtual Memory	
+	- [x] Part 4: Storage Management
+		1. [x] Mass-Storage Structure	
+		2. [x] File-System Interface	
+		3. [x] File-System Implementation	
+		4. [x] I/O Systems	
+	- [x] Part 5: Protection and Security
+		1. [x] Protection	
+		2. [x] Security
 - [ ] DB
 	- [ ] SQL
 		- [ ] [Solve SQL | HackerRank](https://www.hackerrank.com/domains/sql?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=sql)
@@ -74,8 +74,9 @@
 			- [x] Weather Observation Station 10
 			- [x] Weather Observation Station 11
 			- [x] Weather Observation Station 12
-			- [ ] Employee Names
-			- [ ] Employee Salaries
+			- [x] Higher Than 75 Marks
+			- [x] Employee Names
+			- [x] Employee Salaries
 			- [ ] Type of Triangle
 			- [ ] The PADS
 			- [ ] Occupations
@@ -99,13 +100,13 @@
 			- [ ] Weather Observation Station 19
 			- [ ] Weather Observation Station 20
 			- [ ] Population Census
-			- [ ] African Cities
-			- [ ] Average Population of Each Continent
-			- [ ] The Report
-			- [ ] Top Competitors
-			- [ ] Ollivander's Inventory
-			- [ ] Challenges
-			- [ ] Contest Leaderboard
+			- [x] African Cities
+			- [x] Average Population of Each Continent
+			- [x] The Report
+			- [x] Competitors
+			- [x] <mark style="background: #FF5582A6;">Ollivander's Inventory</mark>
+			- [x] <mark style="background: #FF5582A6;">Challenges</mark>
+			- [x] Contest Leaderboard
 			- [ ] SQL Project Planning
 			- [ ] Placements
 			- [ ] Symmetric Pairs

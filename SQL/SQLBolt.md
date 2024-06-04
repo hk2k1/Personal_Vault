@@ -137,6 +137,34 @@ FROM STATION
 WHERE SUBSTRING(CITY, 1,1) IN ('a', 'e', 'i', 'o', 'u')
 ORDER BY CITY
 ```
+
+```mysql
+SELECT (CASE WHEN G.grade >= 8 THEN S.name ELSE 'NULL' END) as name, G.grade , S.marks
+FROM students as S
+JOIN grades as G
+ON S.marks BETWEEN G.min_mark AND G.max_mark
+WHERE S.marks >= G.min_mark
+ORDER BY G.grade DESC, S.name ASC
+```
+
+```mysql
+SELECT wand.id, wp.age, wand.coins_needed, wand.power
+FROM wands AS wand
+JOIN wands_property AS wp
+ON wp.code = wand.code
+JOIN (
+    SELECT wp.code, wp.age, wand.power, MIN(wand.coins_needed) as min_coins
+    FROM wands AS wand
+    JOIN wands_property AS wp
+    ON wp.code = wand.code
+    WHERE wp.is_evil = 0
+    GROUP BY wp.code, wp.age, wand.power
+) AS min_wands
+ON wp.code = min_wands.code AND wp.age = min_wands.age AND wand.power = min_wands.power AND wand.coins_needed = min_wands.min_coins
+WHERE wp.is_evil = 0
+ORDER BY wand.power DESC, wp.age DESC;
+```
+
 ---
 
 ## Time Complexity

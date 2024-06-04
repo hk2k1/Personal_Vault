@@ -26,7 +26,7 @@ So we use session states. Like a independent server that stores all the session 
 
 >`Sessions need to be stored in a centralized data store which is accessible to all your application servers. It can be an external database or an external persistent cache, like Redis. An external persistent cache will have better performance than an external database. By external I mean that the data store does not reside on the application servers. Instead, it is somewhere in or near the data center of your application servers.`
 
-RAID- Redundant Array Independent Disk
+#### RAID - Redundant Array Independent Disk
 - RAID0 or RAID1 or RAID5 or RAID10 ....
 - RAID0 - Two identical hard drives, you strike data meaning you write some into this drive and some into the other drive
 	- Good for performance
