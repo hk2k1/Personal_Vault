@@ -77,24 +77,24 @@
 			- [x] Higher Than 75 Marks
 			- [x] Employee Names
 			- [x] Employee Salaries
-			- [ ] Type of Triangle
-			- [ ] The PADS
-			- [ ] Occupations
-			- [ ] Binary Tree Nodes
+			- [x] Type of Triangle
+			- [x] The PADS
+			- [x] Occupations
+			- [x] Binary Tree Nodes
 			- [ ] New Companies
-			- [ ] Revising Aggregations - The Count Function
-			- [ ] Revising Aggregations - The Sum Function
-			- [ ] Revising Aggregations - Averages
-			- [ ] Average Population
-			- [ ] Japan Population
-			- [ ] Population Density Difference
-			- [ ] The Blunder
+			- [x] Revising Aggregations - The Count Function
+			- [x] Revising Aggregations - The Sum Function
+			- [x] Revising Aggregations - Averages
+			- [x] Average Population
+			- [x] Japan Population
+			- [x] Population Density Difference
+			- [x] The Blunder
 			- [ ] Top Earners
-			- [ ] Weather Observation Station 2
-			- [ ] Weather Observation Station 13
-			- [ ] Weather Observation Station 14
-			- [ ] Weather Observation Station 15
-			- [ ] Weather Observation Station 16
+			- [x] Weather Observation Station 2
+			- [x] Weather Observation Station 13
+			- [x] Weather Observation Station 14
+			- [x] Weather Observation Station 15
+			- [x] Weather Observation Station 16
 			- [ ] Weather Observation Station 17
 			- [ ] Weather Observation Station 18
 			- [ ] Weather Observation Station 19
@@ -112,9 +112,10 @@
 			- [ ] Symmetric Pairs
 			- [ ] Interviews
 			- [ ] 15 Days of Learning SQL
-			- [ ] Draw The Triangle 1
+			- [x] Draw The Triangle 1
 			- [ ] Draw The Triangle 2
 			- [ ] Print Prime Numbers
+		- [ ] ![[Pasted image 20240604211921.png]]
 		- [ ] [[SQLBolt | SQL Notes]]
 	- [ ] Notes on
 		- [ ] Sharding [[02 System Design GitHub Notes#Sharding]]
@@ -143,7 +144,7 @@
 		- [ ] Chapter 5: Design Consistent Hashing  
 		- [ ] Chapter 6: Design A Key-value Store  
 		- [ ] Chapter 7: Design A Unique Id Generator In Distributed Systems  
-		- [ ] Chapter 8: Design A Url Shortener  
+		- [x] Chapter 8: Design A Url Shortener  
 		- [ ] Chapter 9: Design A Web Crawler  
 		- [ ] Chapter 10: Design A Notification System  
 		- [ ] Chapter 11: Design A News Feed System  
@@ -224,10 +225,10 @@
 			- [ ] Kth Smallest Element In a Bst   	
 			- [ ] Construct Binary Tree From Preorder And Inorder Traversal   
 		- [ ] Heap/Priority Queue
-			- [ ] Kth Largest Element In a Stream   	
-			- [ ] Last Stone Weight   	
-			- [ ] K Closest Points to Origin   	
-			- [ ] Kth Largest Element In An Array   	
+			- [x] Kth Largest Element In a Stream   	
+			- [x] Last Stone Weight   	
+			- [x] K Closest Points to Origin   	
+			- [x] Kth Largest Element In An Array   	
 			- [ ] Task Scheduler   	
 			- [ ] Design Twitter   
 
