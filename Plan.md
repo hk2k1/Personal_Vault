@@ -81,7 +81,7 @@
 			- [x] The PADS
 			- [x] Occupations
 			- [x] Binary Tree Nodes
-			- [ ] New Companies
+			- [x] New Companies
 			- [x] Revising Aggregations - The Count Function
 			- [x] Revising Aggregations - The Sum Function
 			- [x] Revising Aggregations - Averages
@@ -124,16 +124,16 @@
 	- [x] Query Complexity
 		- [x] [Understanding Algorithmic Time Efficiency in SQL Queries | Medium](https://medium.com/learning-data/understanding-algorithmic-time-efficiency-in-sql-queries-616176a85d02)
 - [ ] Network
-	- [ ] TCP & UDP 
-		- [ ] [Understanding TCP and UDP : Building Blocks of Connectivity | Medium](https://medium.com/@abhirup.acharya009/understanding-tcp-and-udp-building-blocks-of-connectivity-ec96e208b852)
-		- [ ] [TCP 3-Way Handshake Process - GeeksforGeeks](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
-		- [ ] [4 Way Handshake](https://www.wifi-professionals.com/2019/01/4-way-handshake)
-	- [ ] HTTP, HTTPS
-		- [ ] [What's the difference between HTTP and HTTPS? (globalsign.com)](https://www.globalsign.com/en/blog/the-difference-between-http-and-https)
-	- [ ] CA, SSL TLS
-		- [ ] [[03 Additional System Design#SSL/TLS HTTPS]]
-	- [ ] Authentication
-		- [ ] Sessions, Cookies, and Token
+	- [x] TCP & UDP 
+		- [x] [Understanding TCP and UDP : Building Blocks of Connectivity | Medium](https://medium.com/@abhirup.acharya009/understanding-tcp-and-udp-building-blocks-of-connectivity-ec96e208b852)
+		- [x] [TCP 3-Way Handshake Process - GeeksforGeeks](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
+		- [x] [4 Way Handshake](https://www.wifi-professionals.com/2019/01/4-way-handshake)
+	- [x] HTTP, HTTPS
+		- [x] [What's the difference between HTTP and HTTPS? (globalsign.com)](https://www.globalsign.com/en/blog/the-difference-between-http-and-https)
+	- [x] CA, SSL TLS
+		- [x] [[03 Additional System Design#SSL/TLS HTTPS]]
+	- [x] Authentication
+		- [x] Sessions, Cookies, and Token
 - [ ] System Design
 	- [ ] [[02 System Design GitHub Notes]]
 	- [ ] [[System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf]]
@@ -164,37 +164,37 @@
 		- [ ]  [‍](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)[Reorder linked list](https://leetcode.com/problems/reorder-list/)
 		- [ ]  [Find the k-th largest (or smallest) value in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 	- [ ] Preparation
-		- [ ] Arrays & Hashing
-			- [ ] Contains Duplicate   	
-			- [ ] Valid Anagram   	
-			- [ ] Two Sum   	
-			- [ ] Group Anagrams   	
-			- [ ] Top K Frequent Elements   	
-			- [ ] Encode and Decode Strings   	
-			- [ ] Product of Array Except Self   	
-			- [ ] Valid Sudoku   	
-			- [ ] Longest Consecutive Sequence 
-		- [ ] Two Pointers
-			- [ ] Valid Palindrome   	
-			- [ ] Two Sum II Input Array Is Sorted   	
-			- [ ] 3Sum   	
-			- [ ] Container With Most Water   	
-			- [ ] Trapping Rain Water
+		- [x] Arrays & Hashing
+			- [x] Contains Duplicate   	
+			- [x] Valid Anagram   	
+			- [x] Two Sum   	
+			- [x] Group Anagrams   	
+			- [x] Top K Frequent Elements   	
+			- [x] Encode and Decode Strings   	
+			- [x] Product of Array Except Self   	
+			- [x] Valid Sudoku   	
+			- [x] Longest Consecutive Sequence 
+		- [x] Two Pointers
+			- [x] Valid Palindrome   	
+			- [x] Two Sum II Input Array Is Sorted   	
+			- [x] 3Sum   	
+			- [x] Container With Most Water   	
+			- [x] Trapping Rain Water
 		- [ ] Stack
-			- [ ] Valid Parentheses   	
-			- [ ] Min Stack   	
-			- [ ] Evaluate Reverse Polish Notation   	
-			- [ ] Generate Parentheses   	
-			- [ ] Daily Temperatures   	
-			- [ ] Car Fleet   	
-			- [ ] Largest Rectangle In Histogram
-		- [ ] Binary Search
-			- [ ] Search a 2D Matrix   	
-			- [ ] Koko Eating Bananas   	
-			- [ ] Find Minimum In Rotated Sorted Array   	
-			- [ ] Search In Rotated Sorted Array   	
-			- [ ] Time Based Key Value Store   	
-			- [ ] Median of Two Sorted Arrays   
+			- [x] Valid Parentheses   	
+			- [x] Min Stack   	
+			- [x] Evaluate Reverse Polish Notation   	
+			- [x] Generate Parentheses   	
+			- [x] Daily Temperatures   	
+			- [x] Car Fleet   	
+			- [x] Largest Rectangle In Histogram
+		- [x] Binary Search
+			- [x] Search a 2D Matrix   	
+			- [x] Koko Eating Bananas   	
+			- [x] Find Minimum In Rotated Sorted Array   	
+			- [x] Search In Rotated Sorted Array   	
+			- [x] Time Based Key Value Store   	
+			- [x] Median of Two Sorted Arrays   
 		- [ ] Sliding Window
 			- [ ] Best Time to Buy And Sell Stock   	
 			- [ ] Longest Substring Without Repeating Characters   	

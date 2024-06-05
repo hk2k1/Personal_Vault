@@ -30,6 +30,22 @@ class Solution:
 
     # Solution 1 needs extra memory space allocated (newstr="" & newstr[::-1]) but Solution 2 doesn't
 
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        l, r = 0, len(s)-1
+        while l < r:
+            if not s[l].isalnum():
+                l += 1
+                continue
+            if not s[r].isalnum():
+                r -= 1
+                continue
+            if s[l].lower() != s[r].lower():
+                return False
+            l += 1
+            r -= 1
+        return True
 ```
 
 ## [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) <mark style="background: #FFF3A3A6;">medium</mark>

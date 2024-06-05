@@ -90,3 +90,66 @@ class Solution:
         return count
 
 ```
+
+## <mark style="background: #FF5582A6;">String Encode and Decode</mark>
+ 
+```python
+class Solution:
+
+    def encode(self, strs: List[str]) -> str:
+        res = ""
+        for s in strs:
+            res += s+"-"
+        return res
+
+    def decode(self, s: str) -> List[str]:
+        res = [""]
+        i = 0
+        for sts in s:
+            if sts == "-":
+                i += 1
+                res.append("")
+            else:
+                res[i] += sts
+        return res[:-1]
+```
+
+## <mark style="background: #FF5582A6;">Products of Array Discluding Self</mark>
+`prefix & postfix method`
+
+```python
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        res = [1] * len(nums)
+        # Prefix Array
+        prefix = 1
+        for i in range(len(nums)):
+            res[i] = prefix
+            prefix *= nums[i]
+        postfix = 1
+        for j in range(len(nums)-1, -1, -1):
+            res[j] *= postfix
+            postfix *= nums[j]
+        return res
+```
+
+## <mark style="background: #FF5582A6;">Valid Sudoku</mark>
+
+```python
+from collections import defaultdict
+class Solution:
+    def isValidSudoku(self, board: List[List[str]]) -> bool:
+        row, col, region = defaultdict(set), defaultdict(set), defaultdict(set)
+
+        for r in range(9):
+            for c in range(9):
+                if board[r][c] == ".":
+                    continue
+                if board[r][c] in row[r] or board[r][c] in col[c] or board[r][c] in region[(r//3, c//3)]:
+                    return False
+                row[r].add(board[r][c])
+                col[c].add(board[r][c])
+                region[(r//3, c//3)].add(board[r][c])
+        return True
+```
+
