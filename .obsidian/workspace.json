@@ -4,103 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "350e4797a6c82d1e",
+        "id": "e1518dd243702fa2",
         "type": "tabs",
         "children": [
           {
-            "id": "78c3bee9815d2909",
+            "id": "5ffb7ff6dcf9ac6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Problems/01 Arrays & Hashing.md",
+                "file": "Leetcode/Problems/11 Bit manipulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ecddf37a4e95ba32",
+            "id": "d5d7bb1d22432c4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Problems/04 Binary Search.md",
+                "file": "Leetcode/Problems/11 Bit manipulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc1156b757724683",
+            "id": "0b5e4dda50120bdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Problems/05 Sliding Window.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29eb8c04f33b4db5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Problems/01 Arrays & Hashing.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7abfd04e03efe9a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
-          },
-          {
-            "id": "ddaea7d874656ebb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 14.39.41.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "67dbe49493834f92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/Problems/06 Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05918cba06140197",
+            "id": "0873fb419bec73cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Leetcode/Problems/07 Binary Tree.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97ccd84e808c626a",
+            "id": "da8c2b430047e85a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,7 +68,19 @@
             }
           },
           {
-            "id": "6337714f5a38125b",
+            "id": "77cbcc16b47ac6a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Problems/11 Bit manipulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f996923f747694c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,19 +92,53 @@
             }
           },
           {
-            "id": "49c111566b62914a",
+            "id": "bc1742e3cf9d8bdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/Problems/11 Bit manipulation.md",
+                "file": "Leetcode/Problems/08 Heap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ffe9da8cf73576f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-02 19.22.36.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b93b664de5d92c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/Problems/12 Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a528af0b2a9ec4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Rakuten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -165,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "product",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5110321044922,
-    "collapsed": true
+    "width": 391.5
   },
   "right": {
     "id": "2e3383e92dd747bd",
@@ -203,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 14.39.41.excalidraw.md",
+                "file": "Interviews/Rakuten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 14.39.41.excalidraw.md",
+                "file": "Interviews/Rakuten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-06 14.39.41.excalidraw.md"
+                "file": "Interviews/Rakuten.md"
               }
             }
           }
@@ -256,65 +257,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "ddaea7d874656ebb",
+  "active": "a528af0b2a9ec4ef",
   "lastOpenFiles": [
     "Leetcode/Problems/01 Arrays & Hashing.md",
+    "README.md",
+    "Interviews/Rakuten.md",
+    "Interviews/attachments/Pasted image 20240712120743.png",
+    "Interviews/attachments/Pasted image 20240712120736.png",
+    "Interviews/attachments",
     "Excalidraw/Drawing 2024-07-06 14.39.41.excalidraw.md",
+    "Interviews",
+    "Leetcode/Problems/07 Binary Tree.md",
+    "Excalidraw/Drawing 2024-06-02 19.22.36.excalidraw.md",
     "Leetcode/Problems/08 Heap.md",
+    "Leetcode/Problems/12 Graphs.md",
+    "Excalidraw/Drawing 2024-06-18 20.34.49.excalidraw.md",
+    "SQL/SQLBolt.md",
+    "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
+    "Leetcode/Problems/11 Bit manipulation.md",
+    "Leetcode/Problems/06 Linked List.md",
     "Leetcode/Problems/09 Tries or Prefix Tree.md",
-    "Microservices/01 Microservices.md",
-    "Microservices/03 Resilience & Fault Tolerance.md",
-    "Microservices/02 Containers & Orchestration.md",
-    "Leetcode/Problems/03 Stack.md",
     "Leetcode/Problems/05 Sliding Window.md",
     "Leetcode/Problems/02 Two Pointers.md",
+    "Plan.md",
+    "System Design/03 Additional System Design.md",
     "Leetcode/Problems/04 Binary Search.md",
-    "Leetcode/Problems/07 Binary Tree.md",
-    "Operating System/04 Process Synchronisation.md",
-    "Operating System/06 Deadlocks.md",
-    "Operating System/07 Memory.md",
-    "Operating System/09 Storage Management.md",
-    "Operating System/05 Process Scheduling.md",
-    "Operating System/03 Threads.md",
-    "Operating System/02 Processes.md",
-    "Operating System/01 Intro.md",
-    "Leetcode/Problems/06 Linked List.md",
-    "Leetcode/Problems/11 Bit manipulation.md",
+    "REST_API/HackerRank REST API.md",
+    "Leetcode/Problems/03 Stack.md",
     "Excalidraw/attachments/Pasted Image 20240605134648_212.png",
+    "System Design/02 System Design GitHub Notes.md",
+    "System Design/01 CS75 Scalability.md",
+    "System Design/Alex_Xu/01 Rate Limiter.md",
     "attachments/Pasted image 20240604211921.png",
     "attachments",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531131947.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531130358.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531123350.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531122432.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120121.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120101.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240531120047.png",
-    "System Design/Alex_Xu/attachments/Pasted image 20240530235027.png",
-    "System Design/Alex_Xu/attachments",
-    "System Design/Alex_Xu/System Design Interview An Insider’s Guide by Alex Xu (z-lib.org).pdf",
-    "System Design/Alex_Xu/01 Rate Limiter.md",
-    "System Design/Alex_Xu",
-    "Operating System/attachments",
-    "Operating System/Bedtime Stories on Operating Systems.pdf",
     "Operating System/11 Protection & Security.md",
+    "Operating System/09 Storage Management.md",
     "Operating System/10 IO Management.md",
+    "Operating System/attachments/Pasted image 20240603202750.png",
+    "Operating System/attachments/Pasted image 20240603202057.png",
+    "Operating System/Bedtime Stories on Operating Systems.pdf",
+    "Excalidraw/attachments/Pasted Image 20240418234136_600.png",
+    "Operating System/attachments/Pasted image 20240601133226.png",
+    "Operating System/attachments/Pasted image 20240601133154.png",
+    "Operating System/attachments/Pasted image 20240601133122.png",
+    "Operating System/attachments",
+    "System Design/Alex_Xu/attachments",
+    "System Design/Alex_Xu",
+    "Leetcode/Problems/0",
     "Operating System",
-    "Leetcode/Problems/10 Backtracking.md",
-    "Microservices",
-    "REST_API/attachments",
-    "REST_API",
     "Leetcode/Scrap/Untitled.canvas"
   ]
 }
