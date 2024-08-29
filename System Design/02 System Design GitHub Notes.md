@@ -183,7 +183,6 @@ Back Pressure - queue size > memory results in cache misses slower performance. 
 		- Can interleave during transfer and reassemble at the end
 		- **Multiplexing**
 	- Solves HOL blocking
-	- 
 ## UDP
 - Connectionless
 - Datagrams are guaranteed only at datagram level
